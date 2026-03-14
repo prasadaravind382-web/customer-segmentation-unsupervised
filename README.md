@@ -131,9 +131,13 @@ These clusters help understand demographic patterns in the dataset.
 Include screenshots of:
 
 1️⃣ Elbow Method Graph
+
 2️⃣ Silhouette Score Plot
+
 3️⃣ PCA Cluster Visualization
+
 4️⃣ t-SNE Visualization
+
 5️⃣ Feature Importance Plot
 
 Example folder:
@@ -149,9 +153,13 @@ The main.py file should perform the entire pipeline.
 Responsibilities
 
 1️⃣ Load dataset
+
 2️⃣ Perform preprocessing
+
 3️⃣ Train clustering models
+
 4️⃣ Evaluate cluster quality
+
 5️⃣ Save final outputs
 
 Example main.py
