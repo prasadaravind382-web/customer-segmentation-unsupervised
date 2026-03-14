@@ -1,0 +1,62 @@
+1.Which Segment Generates the Highest Revenue?
+Segment:
+     High-Value Premium Buyers
+  These customers generate the highest revenue
+  High purchase frequency
+  High average order value
+  Strong brand loyalty
+  This segment contributes the largest portion of total revenue
+
+2.Which Segment Should Receive Premium Marketing?
+Segment:
+      High-Value Premium Buyers
+  These customers should receive premium marketing treatment
+  They are willing to spend more
+  They prefer exclusive experiences
+  Retaining them increases long-term profit
+
+3.Which Group Is Likely to Churn?
+Segment:
+    At-Risk Customers
+  These customers are most likely to churn
+  No recent purchases
+  Decreasing engagement
+  Reduced response to marketing campaigns
+
+4.Which Group Needs Retention Strategies?
+Segment:
+     At-Risk Customers
+   This segment requires immediate retention strategies
+   They were previously active customers
+   Losing them reduces revenue
+   Retaining them is cheaper than acquiring new customers
+
+5.Segment That Needs Growth Strategy
+Segment:
+     High-Frequency Low Spenders
+   These customers are very active but spend small amounts
+Behavior:
+       | Metric     | Pattern |
+       | ---------- | ------- |
+       | Frequency  | High    |
+       | Spending   | Low     |
+       | Engagement | High    |
+6.Low Priority Segment
+Segment:
+    Budget Occasional Shoppers
+  These customers buy rarely and spend little
+Behavior:
+      | Metric    | Pattern |
+      | --------- | ------- |
+      | Frequency | Low     |
+      | Spending  | Low     |
+
+Final Segment Comparison:
+               | Segment                     | Revenue Contribution | Risk Level | Marketing Strategy  |
+               | --------------------------- | -------------------- | ---------- | ------------------- |
+               | High-Value Premium Buyers   | Highest              | Low        | VIP marketing       |
+               | High-Frequency Low Spenders | Medium               | Low        | Upselling & bundles |
+               | Budget Occasional Shoppers  | Low                  | Medium     | Discount campaigns  |
+               | At-Risk Customers           | Declining            | High       | Retention programs  |
+
+"These insights help businesses optimize marketing strategies, improve customer retention, and maximize long-term revenue"
