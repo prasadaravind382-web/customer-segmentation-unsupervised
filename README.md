@@ -79,6 +79,7 @@ No need to predefine cluster count
 Provides intuitive visualization
 
 5️.How to Run the Project
+
 Step 1: Clone the Repository
 git clone https://github.com/prasadaravind382-web/customer-segmentation-unsupervised.git
 cd clustering-project
