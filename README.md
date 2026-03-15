@@ -193,22 +193,39 @@ cluster_results.csv
 Recommended Project Folder Structure
 clustering-project/
 │
+
 ├── data/
+
 │   └── PoliceKillingsUS.csv
+
 │
+
 ├── images/
+
 │   ├── elbow_plot.png
+
 │   ├── clusters.png
+
 │   └── pca_visualization.png
+
 │
+
 ├── src/
+
 │   ├── preprocessing.py
+
 │   ├── clustering.py
+
 │   └── visualization.py
+
 │
+
 ├── main.py
+
 ├── requirements.txt
+
 └── README.md
+
 Evaluation Based on GitHub Quality
 
 Your project will be evaluated based on the following criteria.
