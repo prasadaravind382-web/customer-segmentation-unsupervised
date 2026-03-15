@@ -82,10 +82,13 @@ Provides intuitive visualization
 Step 1: Clone the Repository
 git clone https://github.com/prasadaravind382-web/customer-segmentation-unsupervised.git
 cd clustering-project
+
 Step 2: Install Dependencies
 pip install -r requirements.txt
+
 Step 3: Run the Project
 python main.py
+
 6️.Key Results
 Number of Clusters Found
 | Algorithm    | Clusters           |
