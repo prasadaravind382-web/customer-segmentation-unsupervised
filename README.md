@@ -285,3 +285,7 @@ Use meaningful variable names
 Add comments for important steps
 
 Write clean and structured code
+
+Conclusion
+
+This project demonstrates the application of unsupervised machine learning techniques to discover hidden patterns in real-world data. By comparing multiple clustering algorithms, the project identifies the most effective method for segmenting the dataset and provides insights into the underlying data structure.
